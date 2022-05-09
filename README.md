@@ -5,5 +5,3 @@
 - Sign up form for new members (SQL and Email Validation w/ Regex)
 - Backend with login to see members
 - Embed chatroom
-
--text
